@@ -1,0 +1,16 @@
+body{
+    margin-top : 0;
+}
+.red{
+    background: gold;
+    height: 200px;
+}
+.blue{
+    background: rebeccapurple;
+    height: 200px;
+}
+.green{
+    background: navy;
+    height: 200px;
+    margin-bottom : 0;
+}

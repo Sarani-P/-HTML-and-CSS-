@@ -1,0 +1,85 @@
+.main{
+    margin-top: 100px;
+    text-align: center;
+}
+.search-wrapper{
+    display: flex;
+    justify-content: center;   /* used for in centre need to put the element*/ 
+
+}
+.class{
+    display: block;
+    width: 500px;
+    margin-left: auto;
+     margin-top:20px;
+    margin-right:auto;
+    text-align: center;
+    padding: 1px;
+    border :10px solid white;
+    border-radius:100px;
+   /* border: 10px dotted  black;*/
+}
+.search{
+
+    /*border: 10px solid  black;*/
+    font-weight: bold;
+    margin-top: 20px;   
+    margin-right:20px;
+     margin-left:20px;
+    
+
+   
+}
+
+body {  /*selector*/
+    color : #888;  /* hex codes number in*/   /*property:value*/
+background:white;
+font-size: 20px;
+font-weight:bold;  /*light,normal,bold*/
+text-align:right;    /*centre,left,right*/
+
+ margin-top: 100px;
+ 
+ margin-bottom : 20px;
+ display: block;
+ margin-left:auto;
+ margin-right:auto;
+ /* display:flex */
+
+}
+
+
+
+
+input{
+    /*inline elements*/
+    display: block;
+    width : 700px;
+    
+    
+    height :25px ;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border: 1px solid black;
+    border-radius:100px;
+    margin-right:auto;
+     margin-left:auto;
+     
+    
+}
+img{
+    display: block;
+    width: 500px;
+    margin-top: 100px;
+    margin-bottom : 0px;
+    margin-left:auto;
+    margin-right:auto;
+    padding: 20px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 0px;
+     
+}
+
