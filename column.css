@@ -1,0 +1,22 @@
+.src{
+    margin-bottom: 14px;
+    font-size: 30px;
+}
+th{
+    background-color: aqua;
+    color:black;
+}
+table{
+    border-radius: 5px;
+    margin:auto
+}
+td{
+    background-color: #fdf2fd;
+}
+td,th{
+    padding: 10px 20px;
+}
+tfoot td{
+    background-color: #46ed46;
+    text-align: centres;
+}

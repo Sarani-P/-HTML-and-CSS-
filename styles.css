@@ -37,7 +37,9 @@ background:white;
 font-size: 20px;
 font-weight:bold;  /*light,normal,bold*/
 text-align:right;    /*centre,left,right*/
-
+/*   ./  start frome same directory the current file is in   */
+/*   start from parent directory of current file     */
+    
  margin-top: 100px;
  
  margin-bottom : 20px;
@@ -46,8 +48,8 @@ text-align:right;    /*centre,left,right*/
  margin-right:auto;
  /* display:flex */
 
-}
-
+}     /* th  for bold in table column */
+/*   td   is for box inside word */
 
 
 
